@@ -1,0 +1,115 @@
+@import url("bootstrap-glyphicons.css");
+ 
+body {
+	background-color:#eee;
+	font-size:16px;
+}
+
+.container {
+	background-color:#fff;
+}
+
+h1,h2,h3,h4 {
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+}
+
+.row {
+	margin-bottom:10px;
+}
+
+.navbar a {
+	color:#555;
+}
+
+.footer {
+	background-color:#e7efe4;
+}
+
+#features {
+	margin-bottom:10px;
+}
+
+#watchVideo {
+	margin-bottom:10px;
+}
+
+#enquiryForm {
+	margin-bottom:10px;
+}
+
+.amenities {
+	background-color:#eee;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.form-control {
+	margin-bottom:10px;
+}
+
+.footer {
+	margin-top:50px;
+	font-size: 10px;
+	padding:20px;
+	color: #555;
+}
+
+.supertiny {
+	font-size: 10px;
+}
+
+.bg { 
+    /* The image used
+    background-image: url("http://stay.zimbalibookings.co.za/images/background.jpg");*/
+
+    /* Full height
+    height: 100%; */ 
+
+    /* Center and scale the image nicely
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.my_date_synced-form {
+	background-color: #e7efe4;
+	padding:1em;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px; /* future proofing */
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+}
+
+/* Responsive Slider Styles */
+
+#zimbaliCarousel {
+	width:340px;
+	margin: auto;
+}
+
+/* END Responsive Slider Styles */
+
+/* START Datepicker Styles */
+
+.ui-widget {
+	font-family: Arial,sans-serif !important;
+}
+
+.fully_booked  span {
+	color:#CC0000 !important;
+}
+
+.ui-state-default {
+	color:#339933 !important;
+}
+
+/* END Datepicker Styles */
+
+#blinker {
+	color:#CC0000;
+}
+
+#blinkerButton {
+	color:#ffffff;
+}
